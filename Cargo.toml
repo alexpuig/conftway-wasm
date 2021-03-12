@@ -3,6 +3,9 @@ name = "conftway-wasm"
 version = "0.1.0"
 authors = ["Alex Puig <alex@caelumlabs.com>"]
 edition = "2018"
+license = "MIT"
+repository = "https://github.com/alexpuig/conftway-wasm"
+description = "Wasm implementation for Conway's Game of Life"
 
 [lib]
 crate-type = ["cdylib", "rlib"]
